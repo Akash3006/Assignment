@@ -1,1 +1,2 @@
 This is the file for activity 3.
+Made changes.
